@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "cloudResolverUrl": "https://aurora-resolver.hernandezzider.workers.dev",
+  "providers": [],
+  "animeProviders": [],
+  "liveTvM3uUrls": [],
+  "liveTvEpgUrls": []
+}
