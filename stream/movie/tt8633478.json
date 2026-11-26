@@ -1,0 +1,9 @@
+{
+  "streams": [
+    {
+      "name": "Aurora Test 1080p",
+      "title": "Big Buck Bunny 1080p Latino",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}
