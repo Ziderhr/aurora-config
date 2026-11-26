@@ -1,8 +1,16 @@
 {
-  "version": 1,
+  "version": 2,
   "cloudResolverUrl": "https://aurora-resolver.hernandezzider.workers.dev",
   "providers": [],
   "animeProviders": [],
-  "liveTvM3uUrls": [],
-  "liveTvEpgUrls": []
+  "liveTvM3uUrls": [
+    "https://iptv-org.github.io/iptv/countries/cr.m3u",
+    "https://iptv-org.github.io/iptv/categories/sports.m3u"
+  ],
+  "liveTvEpgUrls": [
+    "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz",
+    "https://iptv-epg.org/files/epg-cr.xml.gz"
+  ]
 }
